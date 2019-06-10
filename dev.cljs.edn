@@ -1,0 +1,3 @@
+^{:watch-dirs ["src/app"]}
+{:main app.core
+ :output-to "target/public/cljs-out/main.js"}
